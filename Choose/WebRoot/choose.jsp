@@ -10,9 +10,9 @@
 	<table width="100%" height="350" border="0">
   <tr>
     <td width="85%" valign="top"><p><font  size="3">系统登录界面</font>
-    <br><br><a href="choose1.jsp" >学生登录</a>
-	 <br><br><a href="choose2.jsp" >教师登录</a>
-	 <br><br><a href="choose3.jsp" >管理员登录</a>
+    <br><br><a href="choose1.jsp" >我是学生</a>
+	 <br><br><a href="choose2.jsp" >我是教师</a>
+	 <br><br><a href="choose3.jsp" >我是管理员</a>
   </tr>
 </table>
 </body>

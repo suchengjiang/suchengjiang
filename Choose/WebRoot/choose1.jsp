@@ -30,6 +30,7 @@
           <td><input name="reset" type="reset" value="重置"></td>
         </tr>
       </table>
+      <a href="reg.jsp">注册</a>
       </form>
 	</td>
   </tr>
